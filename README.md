@@ -10,18 +10,18 @@
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
 
   <style>
+    /* Global styles */
     body {
       margin: 0;
       font-family: 'Roboto', sans-serif;
-      /* Banana background pattern */
-      background: url("https://images.unsplash.com/photo-1508747703725-719777637510?auto=format&fit=crop&w=800&q=60") repeat;
-      background-size: 300px;
+      background: linear-gradient(135deg, #f0f4f8, #dce3eb);
+      color: #333;
     }
     header {
       position: fixed;
       top: 0;
       width: 100%;
-      background: rgba(255, 255, 255, 0.9);
+      background: white;
       padding: 1rem;
       box-shadow: 0 2px 6px rgba(0,0,0,0.1);
       z-index: 1000;
@@ -40,13 +40,18 @@
       text-decoration: none;
       color: #333;
       font-weight: 600;
+      transition: color 0.2s;
+    }
+    nav a:hover {
+      color: #0066cc;
     }
     section {
       max-width: 900px;
       margin: 6rem auto 4rem;
-      background: rgba(255, 255, 255, 0.92);
+      background: white;
       padding: 2rem;
       border-radius: 8px;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.05);
     }
     h2 {
       margin-top: 0;

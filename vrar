@@ -1,0 +1,701 @@
+<!doctype html><!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en" > <![endif]--><!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en" >        <![endif]--><!--[if IE 8]>    <html class="no-js lt-ie9" lang="en" >               <![endif]--><!--[if gt IE 8]><!--><html class="no-js" lang="en"><!--<![endif]--><head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="author" content="Joshua Engle, MD">
+    <meta name="description" content="Joshua Engle, MD, explores all the facets of Remote photoplethysmography and how it could be used to improve telemedicine. ">
+    <meta name="generator" content="HubSpot">
+    <title>Exploring the Clinical Applications of Virtual Reality in Healthcare</title>
+    <link rel="shortcut icon" href="https://blog.victech.com/hubfs/Victech_March2019/Images/favicon.png">
+    
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <script src="/hs/hsstatic/jquery-libs/static-1.1/jquery/jquery-1.7.1.js"></script>
+<script>hsjQuery = window['jQuery'];</script>
+    <meta property="og:description" content="Joshua Engle, MD, explores all the facets of Remote photoplethysmography and how it could be used to improve telemedicine. ">
+    <meta property="og:title" content="Exploring the Clinical Applications of Virtual Reality in Healthcare">
+    <meta name="twitter:description" content="Joshua Engle, MD, explores all the facets of Remote photoplethysmography and how it could be used to improve telemedicine. ">
+    <meta name="twitter:title" content="Exploring the Clinical Applications of Virtual Reality in Healthcare">
+
+    
+
+    
+    <style>
+a.cta_button{-moz-box-sizing:content-box !important;-webkit-box-sizing:content-box !important;box-sizing:content-box !important;vertical-align:middle}.hs-breadcrumb-menu{list-style-type:none;margin:0px 0px 0px 0px;padding:0px 0px 0px 0px}.hs-breadcrumb-menu-item{float:left;padding:10px 0px 10px 10px}.hs-breadcrumb-menu-divider:before{content:'›';padding-left:10px}.hs-featured-image-link{border:0}.hs-featured-image{float:right;margin:0 0 20px 20px;max-width:50%}@media (max-width: 568px){.hs-featured-image{float:none;margin:0;width:100%;max-width:100%}}.hs-screen-reader-text{clip:rect(1px, 1px, 1px, 1px);height:1px;overflow:hidden;position:absolute !important;width:1px}
+</style>
+
+<link rel="stylesheet" href="/hs/hsstatic/AsyncSupport/static-1.501/sass/comments_listing_asset.css">
+    
+
+    
+
+
+<link rel="amphtml" href="https://blog.victech.com/exploring-the-clinical-applications-of-virtual-reality-in-healthcare?hs_amp=true">
+
+<meta property="og:image" content="https://blog.victech.com/hubfs/shutterstock_2149322047-1.png">
+<meta property="og:image:width" content="2801">
+<meta property="og:image:height" content="1759">
+
+<meta name="twitter:image" content="https://blog.victech.com/hubfs/shutterstock_2149322047-1.png">
+
+
+<meta property="og:url" content="https://blog.victech.com/exploring-the-clinical-applications-of-virtual-reality-in-healthcare">
+<meta name="twitter:card" content="summary_large_image">
+
+<link rel="canonical" href="https://blog.victech.com/exploring-the-clinical-applications-of-virtual-reality-in-healthcare">
+
+<meta property="og:type" content="article">
+<link rel="alternate" type="application/rss+xml" href="https://blog.victech.com/rss.xml">
+<meta name="twitter:domain" content="blog.victech.com">
+<script src="//platform.linkedin.com/in.js" type="text/javascript">
+    lang: en_US
+</script>
+
+<meta http-equiv="content-language" content="en">
+<link rel="stylesheet" href="//7052064.fs1.hubspotusercontent-na1.net/hubfs/7052064/hub_generated/template_assets/DEFAULT_ASSET/1757961063514/template_layout.min.css">
+
+
+<link rel="stylesheet" href="https://blog.victech.com/hubfs/hub_generated/template_assets/1/23573843332/1741826527482/template_VICTechnology_December2019-style.min.css">
+
+
+
+
+</head>
+<body class="blog   hs-content-id-131076617816 hs-blog-post hs-blog-id-8057970818" style="">
+    <div class="header-container-wrapper">
+    <div class="header-container container-fluid">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-1 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-global_group " style="" data-widget-type="global_group" data-x="0" data-w="12">
+<div class="" data-global-widget-path="generated_global_groups/23573819386.html"><div class="row-fluid-wrapper row-depth-1 row-number-1 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell custom-header" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-2 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell page-center" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-3 ">
+<div class="row-fluid ">
+<div class="span3 widget-span widget-type-custom_widget custom-logo wrap2" style="" data-widget-type="custom_widget" data-x="0" data-w="3">
+<div id="hs_cos_wrapper_module_1576557071188159" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><span id="hs_cos_wrapper_module_1576557071188159_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><a href="https://victech.com"><img src="https://blog.victech.com/hubfs/VICTechnology_December2019%20Theme/images/VIC-Technology-Ventures-Logo-White.png" alt="VIC Tech"></a></span></div>
+
+</div><!--end widget-span -->
+<div class="span3 widget-span widget-type-custom_widget custom-header-spacer wp wrap2" style="" data-widget-type="custom_widget" data-x="3" data-w="3">
+<div id="hs_cos_wrapper_module_1576558872329356" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-space" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><span class="hs-horizontal-spacer"></span></div>
+
+</div><!--end widget-span -->
+<div class="span3 widget-span widget-type-custom_widget custom-menu-primary desktop wrap2" style="" data-widget-type="custom_widget" data-x="6" data-w="3">
+<div id="hs_cos_wrapper_module_1579370963012145" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+<span id="hs_cos_wrapper_module_1579370963012145_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="menu"><div id="hs_menu_wrapper_module_1579370963012145_" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-horizontal" role="navigation" data-sitemap-name="default" data-menu-id="23574045606" aria-label="Navigation Menu">
+ <ul role="menu">
+  <li class="hs-menu-item hs-menu-depth-1 hs-item-has-children" role="none"><a href="https://victech.com/innovators/" aria-haspopup="true" aria-expanded="false" role="menuitem">Innovators</a>
+   <ul role="menu" class="hs-menu-children-wrapper">
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://victech.com/inventors/" role="menuitem">Inventors</a></li>
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://victech.com/foundry/" role="menuitem">Foundry</a></li>
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://victech.com/fellows/" role="menuitem">Fellows</a></li>
+   </ul></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://victech.com/investors-2/" role="menuitem">Investors</a></li>
+  <li class="hs-menu-item hs-menu-depth-1 hs-item-has-children" role="none"><a href="https://victech.com/about/" aria-haspopup="true" aria-expanded="false" role="menuitem">About Us</a>
+   <ul role="menu" class="hs-menu-children-wrapper">
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://victech.com/business-model/" role="menuitem">Business Model</a></li>
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://victech.com/portfolio-companies/" role="menuitem">Portfolio Companies</a></li>
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://victech.com/careers/" role="menuitem">Careers</a></li>
+   </ul></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://victech.com/team/" role="menuitem">Team</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://blog.victech.com/" role="menuitem">News</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://victech.com/journal/" role="menuitem">Journal</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://victech.com/contact/" role="menuitem">Contact</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://victech.com/newsletter/" role="menuitem">Subscribe</a></li>
+ </ul>
+</div></span></div>
+
+</div><!--end widget-span -->
+<div class="span3 widget-span widget-type-custom_widget custom-header-spacer2 wrap2" style="" data-widget-type="custom_widget" data-x="9" data-w="3">
+<div id="hs_cos_wrapper_module_1576652185153462" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-space" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><span class="hs-horizontal-spacer"></span></div>
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-4 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell custom-header-scroll" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-5 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell page-center" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-6 ">
+<div class="row-fluid ">
+<div class="span4 widget-span widget-type-custom_widget custom-logo-scroll wrap22" style="" data-widget-type="custom_widget" data-x="0" data-w="4">
+<div id="hs_cos_wrapper_module_1576561563056552" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><span id="hs_cos_wrapper_module_1576561563056552_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><a href="https://victech.com" rel=" noopener"><img src="https://blog.victech.com/hubfs/VICTechnology_December2019%20Theme/images/VIC-Technology-Ventures-Logo.png" alt="VIC Tech"></a></span></div>
+
+</div><!--end widget-span -->
+<div class="span4 widget-span widget-type-custom_widget custom-header-spacer-scroll wp wrap22" style="" data-widget-type="custom_widget" data-x="4" data-w="4">
+<div id="hs_cos_wrapper_module_1576561563056553" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-space" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><span class="hs-horizontal-spacer"></span></div>
+
+</div><!--end widget-span -->
+<div class="span4 widget-span widget-type-custom_widget custom-menu-primary desktop wrap22" style="" data-widget-type="custom_widget" data-x="8" data-w="4">
+<div id="hs_cos_wrapper_module_1576561563056554" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+<span id="hs_cos_wrapper_module_1576561563056554_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="menu"><div id="hs_menu_wrapper_module_1576561563056554_" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-horizontal" role="navigation" data-sitemap-name="default" data-menu-id="23574045606" aria-label="Navigation Menu">
+ <ul role="menu">
+  <li class="hs-menu-item hs-menu-depth-1 hs-item-has-children" role="none"><a href="https://victech.com/innovators/" aria-haspopup="true" aria-expanded="false" role="menuitem">Innovators</a>
+   <ul role="menu" class="hs-menu-children-wrapper">
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://victech.com/inventors/" role="menuitem">Inventors</a></li>
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://victech.com/foundry/" role="menuitem">Foundry</a></li>
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://victech.com/fellows/" role="menuitem">Fellows</a></li>
+   </ul></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://victech.com/investors-2/" role="menuitem">Investors</a></li>
+  <li class="hs-menu-item hs-menu-depth-1 hs-item-has-children" role="none"><a href="https://victech.com/about/" aria-haspopup="true" aria-expanded="false" role="menuitem">About Us</a>
+   <ul role="menu" class="hs-menu-children-wrapper">
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://victech.com/business-model/" role="menuitem">Business Model</a></li>
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://victech.com/portfolio-companies/" role="menuitem">Portfolio Companies</a></li>
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://victech.com/careers/" role="menuitem">Careers</a></li>
+   </ul></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://victech.com/team/" role="menuitem">Team</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://blog.victech.com/" role="menuitem">News</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://victech.com/journal/" role="menuitem">Journal</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://victech.com/contact/" role="menuitem">Contact</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://victech.com/newsletter/" role="menuitem">Subscribe</a></li>
+ </ul>
+</div></span></div>
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-7 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget custom-menu-primary mobile wrap2" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_1576561196200469" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+<span id="hs_cos_wrapper_module_1576561196200469_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="menu"><div id="hs_menu_wrapper_module_1576561196200469_" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-horizontal" role="navigation" data-sitemap-name="default" data-menu-id="23574544946" aria-label="Navigation Menu">
+ <ul role="menu">
+  <li class="hs-menu-item hs-menu-depth-1 hs-item-has-children" role="none"><a href="https://victech.com/innovators/" aria-haspopup="true" aria-expanded="false" role="menuitem">Innovators</a>
+   <ul role="menu" class="hs-menu-children-wrapper">
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://victech.com/inventors/" role="menuitem">Inventors</a></li>
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://victech.com/foundry/" role="menuitem">Foundry</a></li>
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://victech.com/fellows/" role="menuitem">Fellows</a></li>
+   </ul></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://victech.com/investors-2/" role="menuitem">Investors</a></li>
+  <li class="hs-menu-item hs-menu-depth-1 hs-item-has-children" role="none"><a href="https://victech.com/about/" aria-haspopup="true" aria-expanded="false" role="menuitem">About</a>
+   <ul role="menu" class="hs-menu-children-wrapper">
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://victech.com/team/" role="menuitem">Our Team</a></li>
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://victech.com/business-model/" role="menuitem">Business Model</a></li>
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://victech.com/portfolio-companies/" role="menuitem">Portfolio Companies</a></li>
+    <li class="hs-menu-item hs-menu-depth-2" role="none"><a href="https://victech.com/careers/" role="menuitem">Careers</a></li>
+   </ul></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://blog.victech.com/" role="menuitem">News</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://victech.com/contact/" role="menuitem">Contact</a></li>
+ </ul>
+</div></span></div>
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+</div>
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+    </div><!--end header -->
+</div><!--end header wrapper -->
+
+<div class="body-container-wrapper">
+    <div class="body-container container-fluid">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-1 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell page-center content-wrapper" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-2 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell blog-content" style="padding-right: -200px" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-3 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget " style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_1523032069834331" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-blog_content" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module">
+    <div class="blog-section">
+<div class="blog-post-wrapper cell-wrapper">
+<div class="section post-header">
+<h1>Exploring the Clinical Applications of Virtual Reality in Healthcare</h1>
+<ul class="post-page-meta">
+<li>
+<span>Posted on</span> August 21, 2023</li>
+<li>
+<span>By</span>
+<a href="https://blog.victech.com/author/joshua-engle-md" rel="author">
+Joshua Engle, MD
+</a>
+</li>
+</ul>                  
+</div>
+<div class="section post-body">
+<span id="hs_cos_wrapper_post_body" class="hs_cos_wrapper hs_cos_wrapper_meta_field hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="meta_field" data-hs-cos-type="rich_text"><p><img src="https://blog.victech.com/hs-fs/hubfs/shutterstock_2258560561.jpg?width=2720&amp;height=1278&amp;name=shutterstock_2258560561.jpg" width="2720" height="1278" loading="lazy" alt="shutterstock_2258560561" style="height: auto; max-width: 100%; width: 2720px;" srcset="https://blog.victech.com/hs-fs/hubfs/shutterstock_2258560561.jpg?width=1360&amp;height=639&amp;name=shutterstock_2258560561.jpg 1360w, https://blog.victech.com/hs-fs/hubfs/shutterstock_2258560561.jpg?width=2720&amp;height=1278&amp;name=shutterstock_2258560561.jpg 2720w, https://blog.victech.com/hs-fs/hubfs/shutterstock_2258560561.jpg?width=4080&amp;height=1917&amp;name=shutterstock_2258560561.jpg 4080w, https://blog.victech.com/hs-fs/hubfs/shutterstock_2258560561.jpg?width=5440&amp;height=2556&amp;name=shutterstock_2258560561.jpg 5440w, https://blog.victech.com/hs-fs/hubfs/shutterstock_2258560561.jpg?width=6800&amp;height=3195&amp;name=shutterstock_2258560561.jpg 6800w, https://blog.victech.com/hs-fs/hubfs/shutterstock_2258560561.jpg?width=8160&amp;height=3834&amp;name=shutterstock_2258560561.jpg 8160w" sizes="(max-width: 2720px) 100vw, 2720px"></p>
+<p><a href="https://www.linkedin.com/in/joshua-engle-a8286a5/" rel="noopener" target="_blank"><img src="https://blog.victech.com/hs-fs/hubfs/JoshuaEngle_Headshot.png?width=243&amp;height=355&amp;name=JoshuaEngle_Headshot.png" alt="JoshuaEngle_Headshot" width="243" height="355" loading="lazy" style="height: auto; max-width: 100%; width: 243px; float: right; margin: 0px 0px 0px 10px;" srcset="https://blog.victech.com/hs-fs/hubfs/JoshuaEngle_Headshot.png?width=122&amp;height=178&amp;name=JoshuaEngle_Headshot.png 122w, https://blog.victech.com/hs-fs/hubfs/JoshuaEngle_Headshot.png?width=243&amp;height=355&amp;name=JoshuaEngle_Headshot.png 243w, https://blog.victech.com/hs-fs/hubfs/JoshuaEngle_Headshot.png?width=365&amp;height=533&amp;name=JoshuaEngle_Headshot.png 365w, https://blog.victech.com/hs-fs/hubfs/JoshuaEngle_Headshot.png?width=486&amp;height=710&amp;name=JoshuaEngle_Headshot.png 486w, https://blog.victech.com/hs-fs/hubfs/JoshuaEngle_Headshot.png?width=608&amp;height=888&amp;name=JoshuaEngle_Headshot.png 608w, https://blog.victech.com/hs-fs/hubfs/JoshuaEngle_Headshot.png?width=729&amp;height=1065&amp;name=JoshuaEngle_Headshot.png 729w" sizes="(max-width: 243px) 100vw, 243px"></a><span style="text-decoration: underline;"><span style="font-weight: bold; color: #073763;">Background: </span></span></p>
+<p>While most people think of virtual reality as a source of entertainment, there are potential clinical applications of virtual reality. In this article, we will explore some of the most promising clinical applications of VR, the data from peer-reviewed studies with regards to the effectiveness of VR in these clinical settings, the FDA landscape in the clinical VR space, and payer reimbursement for VR clinical solutions. Finally, we will end with a prediction as to whether VR clinical solutions will get mainstream adoption in healthcare. Please note that in this article I focus on the patient facing applications of VR in healthcare. There are another group of applications on provider side, from provider training (most notably in surgery) to radiology applications, that are not discussed in this article. If there is sufficient interest, I can write a companion piece to this article exploring those healthcare applications of VR.</p>
+<!--more-->
+<p><span style="color: #073763;"><strong><u>Psychiatric Applications of Virtual Reality:</u></strong></span></p>
+<p>The psychiatric applications of virtual reality revolve around virtual reality exposure therapy (VRET). VRET involves the use of VR to create realistic, immersive environments used for the purpose of providing therapeutic benefit to patients. The two principle psychiatric applications of VRET are below:</p>
+<ol>
+<li><strong>Phobia and Anxiety Disorders:</strong> Patients can face their fears in a controlled setting, gradually exposing them to their anxiety triggers. The hypothesis is VRET can help treat conditions like social anxiety disorder (SAD), agoraphobia, claustrophobia, acrophobia (fear of heights), arachnophobia (fear of spiders), and more.</li>
+<li><strong>Post-Traumatic Stress Disorder (PTSD):</strong> Patients are gradually exposed to trauma-related stimuli, allowing them to confront and process their trauma in a safe environment.</li>
+</ol>
+<p><img src="https://blog.victech.com/hs-fs/hubfs/shutterstock_2149322047-1.png?width=445&amp;height=279&amp;name=shutterstock_2149322047-1.png" width="445" height="279" loading="lazy" alt="shutterstock_2149322047-1" style="height: auto; max-width: 100%; width: 445px; float: right; margin: 0px 0px 0px 10px;" srcset="https://blog.victech.com/hs-fs/hubfs/shutterstock_2149322047-1.png?width=223&amp;height=140&amp;name=shutterstock_2149322047-1.png 223w, https://blog.victech.com/hs-fs/hubfs/shutterstock_2149322047-1.png?width=445&amp;height=279&amp;name=shutterstock_2149322047-1.png 445w, https://blog.victech.com/hs-fs/hubfs/shutterstock_2149322047-1.png?width=668&amp;height=419&amp;name=shutterstock_2149322047-1.png 668w, https://blog.victech.com/hs-fs/hubfs/shutterstock_2149322047-1.png?width=890&amp;height=558&amp;name=shutterstock_2149322047-1.png 890w, https://blog.victech.com/hs-fs/hubfs/shutterstock_2149322047-1.png?width=1113&amp;height=698&amp;name=shutterstock_2149322047-1.png 1113w, https://blog.victech.com/hs-fs/hubfs/shutterstock_2149322047-1.png?width=1335&amp;height=837&amp;name=shutterstock_2149322047-1.png 1335w" sizes="(max-width: 445px) 100vw, 445px">When assessing the clinical validity of VRET, it is important to have a lay of the land for the gold standard treatment(s). This allows us to compare VRET against these interventions. Most therapies include both pharmaceutical and non-pharmaceutical interventions. For the sake of this article, we will focus on the non-pharmaceutical interventions as the gold-standards of comparison, as presumably that would be the piece of the treatment plan VRET would be augmenting/acting as an alternative to. Phobias/anxiety and PTSD mainstay treatment both involve use of cognitive behavioral therapy (CBT). Treatment of phobias also frequently involve the addition of in-vivo exposure therapy. This involves gradually exposing the patient in a controlled manner to whatever stressor is causing the patient anxiety. In-vivo means the exposure is real life exposure. For example, if a patient has a public speaking phobia, the in-vivo exposure therapy would mean exposing the patient gradually to public speaking. For PTSD, since there are usually specific extreme events leading to the patient having PTSD, and since these events are often hard to introduce in a controlled manner, imagination therapy in which the patient imagines the stimulus is often employed.</p>
+<p>VRET has undergone clinical validation studies, and there have been systematic reviews with corresponding meta-analysis studies . A combined effort from Baylor University, UT Austin, and the San Francisco VA conducted a meta-analysis on 30 studies that investigated the effectiveness of VRET [1]. VRET versus both placebo and in-vivo therapy for specific phobias, SAD, panic disorder, and PTSD was studied. They reported their findings in terms of effect size. When compared to placebo, a small effect size means that VRET performed comparably to placebo. When compared to in-vivo, a small effect size means VRET performed comparably to the gold-standard in-vivo therapy.</p>
+<p>___________</p>
+<p style="font-size: 14px;">[1] A systematic review with a meta-analysis is a study in which the author(s) aggregate other studies, combine data from these studies, and analyze the results. The benefits of these studies are you get a more robust data set, and can come to a conclusion if there are studies with competing findings. The downside of these studies is often you are stuck trying to combine heterogenous data sets.</p>
+<p style="font-size: 14px;">______________</p>
+<p>So the findings that most support VRET would be a large effect size when compared to placebo, and a small effect size compared to in-vivo. The below chart has the study findings:</p>
+<div data-hs-responsive-table="true" style="overflow-x: auto; max-width: 100%; width: 100%; margin-left: auto; margin-right: auto; font-size: 16px;">
+<table style="width: 100%; border-collapse: collapse; table-layout: fixed; border: 1px solid #99acc2; height: 316px;">
+<tbody>
+<tr style="height: 117px;">
+<td style="width: 27.477%; padding: 4px; border-color: #444444; border-style: solid; text-align: left; height: 117px;"><strong>Pathology</strong></td>
+<td style="width: 26.1491%; padding: 4px; border-color: #444444; border-style: solid; height: 117px; text-align: center;"><strong>Number of Studies Analyzed </strong>(Studies with VRET v Placebo/ Studies with VRET v In-Vivo)</td>
+<td style="width: 23.4934%; padding: 4px; border-color: #444444; border-style: solid; height: 117px;">
+<p style="text-align: center;"><strong>Effect Size Versus Placebo</strong> (Hedge’s G)</p>
+</td>
+<td style="width: 22.9826%; padding: 4px; border-color: #444444; border-style: solid; height: 117px; text-align: center;"><strong>Effect Size Versus In-Vivo</strong> (Hedge’s G)</td>
+</tr>
+<tr style="height: 36px;">
+<td style="width: 27.477%; padding: 4px; border-color: #444444; border-style: solid; height: 36px; background-color: #eeeeee;"><strong>Specific Phobias</strong></td>
+<td style="width: 26.1491%; padding: 4px; border-color: #444444; border-style: solid; height: 36px; text-align: center; background-color: #eeeeee;">12 / 5</td>
+<td style="width: 23.4934%; padding: 4px; border-color: #444444; border-style: solid; height: 36px; text-align: center; background-color: #eeeeee;">Large (g=0.95)</td>
+<td style="width: 22.9826%; padding: 4px; border-color: #444444; border-style: solid; height: 36px; text-align: center; background-color: #eeeeee;">Small (g=-0.08)</td>
+</tr>
+<tr style="height: 63px;">
+<td style="width: 27.477%; padding: 4px; border-color: #0c343d; border-style: solid; height: 63px;"><strong>Social Anxiety Disorder (SAD)</strong></td>
+<td style="width: 26.1491%; padding: 4px;" width="199">
+<p style="text-align: center;">7 / 6</p>
+</td>
+<td style="width: 23.4934%; padding: 4px; border-color: #444444; border-style: solid; height: 63px; text-align: center;">Large (g=0.97)</td>
+<td style="width: 22.9826%; padding: 4px; border-color: #444444; border-style: solid; height: 63px; text-align: center;">Small (g=0.06)</td>
+</tr>
+<tr style="height: 63px;">
+<td style="width: 27.477%; padding: 4px; border-color: #444444; border-style: solid; height: 63px; background-color: #eeeeee;"><strong>Post-Traumatic Stress Disorder (PTSD)</strong></td>
+<td style="width: 26.1491%; padding: 4px; border-color: #444444; border-style: solid; height: 63px; text-align: center; background-color: #eeeeee;">5/0</td>
+<td style="width: 23.4934%; padding: 4px; border-color: #444444; border-style: solid; height: 63px; text-align: center; background-color: #eeeeee;">Medium (g=0.59)</td>
+<td style="width: 22.9826%; padding: 4px; border-color: #444444; border-style: solid; height: 63px; text-align: center; background-color: #eeeeee;">N/A</td>
+</tr>
+<tr style="height: 36px;">
+<td style="width: 27.477%; padding: 4px; border-color: #444444; border-style: solid; height: 36px;"><strong>Panic Disorder</strong></td>
+<td style="width: 26.1491%; padding: 4px; border-color: #444444; border-style: solid; height: 36px; text-align: center;">2/3</td>
+<td style="width: 23.4934%; padding: 4px; border-color: #444444; border-style: solid; height: 36px; text-align: center;">Medium (g=0.59)</td>
+<td style="width: 22.9826%; padding: 4px; border-color: #444444; border-style: solid; height: 36px; text-align: center;">Small (g=-0.26)</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>It appears that VRET is particularly good for specific phobias and SAD. While it is effective for panic disorders, the evidence to support the use of VRET is not quite as robust. While VRET performed better than placebo for PTSD patients, it does not appear to perform as well in this meta-analysis as the other applications of VRET, and evidence when compared to a traditional treatment arm is lacking. Researchers from the Amsterdam University, an institution that conducts a significant amount of VR related research, conducted a meta-analysis specifically on the applications of VRET in treating PTSD patients. They came to similar conclusions: that while VRET outperforms placebo, the studies are to heterogenous, and often not of sufficient quality to make any definite conclusions [2].</p>
+<p><span style="color: #073763;"><strong><u>Pain Management Applications of Virtual Reality:</u></strong></span></p>
+<p style="font-weight: bold;"><em>Acute Pain Management</em></p>
+<p>VR for acute pain management is mainly used immediately before or after surgeries and medical procedures. It is used for two proposes in this context:</p>
+<ol>
+<li><strong>Distraction therapy:</strong> The immersive nature of VR provides a compelling distraction, diverting the patient's attention away from the pain and discomfort.</li>
+<li><strong>Pre-operative anxiety reduction: </strong>Surgery often induces anxiety. VR can be used pre-operatively to calm patients, guiding them through relaxing virtual environments or educating them about the procedure in a less intimidating manner.</li>
+</ol>
+<p>The literature demonstrated a mixed, but ultimately favorable picture for the use of VR for distraction therapy and anxiety reduction in acute pain patients. A meta-analysis of 11 studies with a combined patient count of 400 patients demonstrated a statistically significant pain reduction in burn patients [3]. <span style="background-color: transparent; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';">AppliedVR, one of the main players in the VR for pain management space, partnered with the Cedar Sinai, to conduct a pilot study for the use of VR for pain reduction. The study had 120 hospitalized subjects (61 VR; 59 control). The study posted results in favor of the use of VR therapy, but the results had a large standard deviation, which limits the insights that can be gained from this study [4]. Researchers from the University of Amsterdam and various regional hospitals investigated the effectiveness VR therapy on preoperative pain control and anxiety in 191 children. VR therapy was compared against a control group receiving care as usual (CAU). Outcomes related to pain included self-reported and observed pain, and the need for rescue analgesia. Researchers found in children undergoing elective day care surgery, VRE did not have a beneficial effect on pain above CAU. However, after more painful surgery, children in the VRE group needed rescue analgesia significantly less often [5].</span></p>
+<p style="font-weight: bold;"><em>Chronic Pain Management</em></p>
+<p>VR for chronic pain management involves focusing the patient’s mind on a calming virtual environment, often with a narrator’s voice, to guide the patient through a breathing exercise, or progressive muscle relation techniques [6]. VR can also help change the way patients perceive their pain. It can be used to provide visual metaphors for pain, allowing patients to externalize and manipulate their symptoms in the virtual world. This process can help patients feel more control over their pain, reducing its intensity.</p>
+<p><img src="https://blog.victech.com/hs-fs/hubfs/shutterstock_1818577436-1.png?width=378&amp;height=292&amp;name=shutterstock_1818577436-1.png" width="378" height="292" loading="lazy" alt="shutterstock_1818577436-1" style="height: auto; max-width: 100%; width: 378px; float: right; margin: 0px 0px 0px 10px;" srcset="https://blog.victech.com/hs-fs/hubfs/shutterstock_1818577436-1.png?width=189&amp;height=146&amp;name=shutterstock_1818577436-1.png 189w, https://blog.victech.com/hs-fs/hubfs/shutterstock_1818577436-1.png?width=378&amp;height=292&amp;name=shutterstock_1818577436-1.png 378w, https://blog.victech.com/hs-fs/hubfs/shutterstock_1818577436-1.png?width=567&amp;height=438&amp;name=shutterstock_1818577436-1.png 567w, https://blog.victech.com/hs-fs/hubfs/shutterstock_1818577436-1.png?width=756&amp;height=584&amp;name=shutterstock_1818577436-1.png 756w, https://blog.victech.com/hs-fs/hubfs/shutterstock_1818577436-1.png?width=945&amp;height=730&amp;name=shutterstock_1818577436-1.png 945w, https://blog.victech.com/hs-fs/hubfs/shutterstock_1818577436-1.png?width=1134&amp;height=876&amp;name=shutterstock_1818577436-1.png 1134w" sizes="(max-width: 378px) 100vw, 378px">There are peer-reviewed clinical investigations in the application of VR in this area. The literature of the effectiveness on chronic pain reduction demonstrates mixed results. The National Institute of Health (NIH) sponsored a meta-analysis to analyze if VR could be used to lower pain and anxiety in patients with solid malignant tumors. Thirteen manuscripts ended up meeting inclusion criteria, but only five of the supporting studies assessed VR for the purpose of pain control (the rest of the supporting studies investigated VR as an anxiety reduction tool). The pooled patient count among these five studies was 241. Three of the five studies demonstrated a statistically significant improvement in pain symptoms [7]. Loma Linda University did a meta-analysis of VR therapy in patients with spinal cord injury (SCI) associated neuropathic pain. They ultimately included and analyzed nine studies with a total patient count of 150. The supporting studies often used audio guided imagery as the control intervention. They found that overall VR outperformed the control interventions, but the researchers called into question the quality of the studies they found [8]. One systematic review with meta-analysis did show a statistically significant benefit for VR therapy being used to treat fibromyalgia associated pain. The combined patient pool was 267 patients. However, like the Loma Linda systematic review, the authors called into question the quality of their supporting studies [9].</p>
+<p>AppliedVR has recently published the results of their feasibility studies for both fibromyalgia and chronic back pain. They posted statistically positive results against audio-only therapy for both of their studies [10, 11].</p>
+<p style="font-weight: bold;"><span style="text-decoration: underline; color: #073763;">Applications of VR in Patients with Neurological Pathologies/Deficits: </span></p>
+<p>The main neurological application of VR therapy is an exercise program tailored to a neurological deficit and/or pathology. The most common applications are with patients with movement disorders or post-stroke patients. In addition to being assigned an exercise program geared towards treatment, the accelerometers in the VR controllers can monitor neurological movement metrics such as tremors. This allows the patient’s care team to assess how the patient is responding to both the exercise program, and the pharmacological interventions.</p>
+<p>The largest relevant primary research &nbsp;study that I found was a co-lead multi-center study published in the Lancet. Three-hundred-and-two high fall-risk patients with varied motor and cognitive deficits across five clinical centers were enrolled. Researchers compared VR enhanced treadmill exercise programs versus treadmill programs alone. The primary outcome was the incident rate of falls during the 6 months after the end of training. The investigators found the incident rate of falls was lower in the treadmill training plus VR group than in the treadmill training alone group (incident rate ratio &nbsp;0.58, 95% CI 0.36-0.96; p=0.033). Of note, although this study offers evidence for the effectiveness of VR exercise programs, the focus is on fall reduction opposed to rehabilitation towards any one neurological pathology.</p>
+<p>__________</p>
+<p style="font-size: 14px;">[2] Primary research is when researchers directly work with patients or conduct laboratory bench work. This contrasts with secondary research in which the investigators are researching and analyzing primary research that has already been done. The systematic reviews I referenced earlier are an example of secondary research.</p>
+<p style="font-size: 14px;">[3] The Incident Rate Ratio (IRR) is a way of comparing how often something happens in two different groups (for example: a ratio of how many people get the flu in a group that got a flu vaccine versus a group who didn’t get the vaccine).</p>
+<p style="font-size: 14px;">____________</p>
+<p style="font-size: 18px;">There was a moderate amount of research available specifically investigating the effectiveness of VR rehabilitation programs for post-stroke patients. Researchers from Ohio State University conducted a systematic review with a corresponding meta-analysis on 38 studies. The supporting studies used validated performance scoring systems for post-stroke patients, such as the Fugl-Meyer assessment tool. The systematic review found that VR centric rehabilitation programs were non-inferior to conventional rehabilitation programs [12]. A meta-analysis of 260 patients across nine studies from researchers from the University of Nebraska Medical Center similarly found non-inferiority of VR based post-stroke rehabilitation interventions [13]. In full disclosure, the above systematic reviews were published in journals with lower impact factors &nbsp;than I would like, but I reviewed the methodology, and the methodology appeared sound. On the primary research front, Ability Labs, a well-respected neurotechnology research institution, co-sponsored a pilot study with UNC at Chapel Hill. Fifteen participants underwent a VR post-stroke rehabilitation therapy program versus a standard home exercise program. The objective measure was arm displacement. The authors found the VR program was statistically non-inferior to the home exercise program [14].</p>
+<p style="font-size: 18px;">There is also research available for the applications of VR exercise programs for other neurological diseases. A systematic review with a meta-analysis of 858 multiple sclerosis patients across 19 randomized controlled trials (RCTs) found that VR based therapy both improved balance and posture, but not gait speed (Cortés-Pérez et al. 2023 [15]). For Parkinson’s disease, a systematic review with a meta-analysis examined how patients responded to a VR enhanced exercise program versus traditional exercise programs. The meta-analysis included fourteen RCTs with a pooled patient group of 524 patients. The results indicated that VR-based rehabilitation improved balance function, as measured by using the Berg balance scale (BBS) [16].</p>
+<p style="font-size: 18px;">The above studies are just a sample of the research available for the applications of VR enhanced exercise programs for patients with neurological deficits. Although the above research would suggest the validation of both VR based post-stroke rehabilitation programs, and VR exercise programs for patients with movement disorders, more comprehensive studies are needed. Even in instances of systematic reviews with a meta-analysis, most of the supporting studies are smaller pilot studies. However, the initial results are promising.</p>
+<p><span style="color: #073763;"><strong><u>FDA Landscape: </u></strong></span></p>
+<p>The FDA has authorized marketing of some VR devices through 510(k) clearances, De Novo requests, or premarket approval [17]. Many of these devices are more provider facing, such as in the realm of radiology or surgical visualization. AppliedVR received permission from the FDA to market AppliedVR’s chronic lower back pain solution via the FDA De Novo premarket pathway [18]. Penumbra received a 510(k) exception to market their exercise rehabilitation platform [19]. They also have CE clearance. XRHealth has registered its clinical VR applications with the FDA [20]. However, at the time of the publication of this article, they have not received any of the approvals or exceptions listed above.</p>
+<p><strong><u><span style="color: #073763;">Reimbursement</span>: </u></strong></p>
+<p>AppliedVR just recently became one of the first companies to be approved for payer (insurance) reimbursement [21]. They were able to be approved by being classified as durable medical equipment. This is technically the same category that wheelchairs, canes, and other medical equipment is reimbursed. Although AppliedVR got approved for payer DME reimbursement, there are still a lot of questions pending:</p>
+<p>________</p>
+<p style="font-size: 14px;">[4] Impact Factor is considered to be a metric of a journal’s importance in the research community. Mathematically it is calculated based on how often a journal is cited. When evaluating a research article, looking at the impact factor of the journal it is published in is not the end all, be all by any means. And it can be gamed by a publication. But it is one of many metrics to pay attention to when evaluating research articles.</p>
+<p style="font-size: 18px;">_________</p>
+<ol>
+<li style="font-size: 18px;">The rate of reimbursement: Generally the rates of reimbursement for insurance companies are set by CME. Insurance companies either directly use or peg their reimbursement rate as a multiple to the rate that CME sets. Although AppliedVR has been approved for reimbursement, at the time of the publication of this article, a rate has not been set.</li>
+<li style="font-size: 18px;">Will they be approved for reoccurring payments, or only a one-time lump sum payment. Both models exist with DME reimbursement, as some DME is rented, and some is owned. &nbsp;A justification could be made for either case. Payers could argue that it should be a lump sum payment, as only the actual VR hardware (the headset) is the piece of DME. AppliedVR will likely try to justify that the software is also part of the DME package, and hence a rental fee should be paid, ensuring reoccurring revenue.</li>
+<li style="font-size: 18px;">Right now AppliedVR is only approved for DME reimbursement for pain management. It is yet to be seen if they can be approved for DME reimbursement for other clinical applications of VR. However, their initial DME approval is certainly a good sign of further DME approvals to come.</li>
+</ol>
+<p>XRHealth got approved for Medicare reimbursement for remote therapy monitoring (RTM). RTM is narrow in the body systems it can be applied to, specifically monitoring musculoskeletal and respiratory systems. But it is broad in the type of data that can be collected for billing purposes, including subjective data like pain scoring [22]. Below is a breakdown of reimbursement codes for RTM and the associated CMS reimbursement rates [23].</p>
+<p><img src="https://blog.victech.com/hs-fs/hubfs/Picture1-Aug-21-2023-05-46-02-2365-PM.png?width=611&amp;height=240&amp;name=Picture1-Aug-21-2023-05-46-02-2365-PM.png" width="611" height="240" loading="lazy" alt="Picture1-Aug-21-2023-05-46-02-2365-PM" style="height: auto; max-width: 100%; width: 611px; float: left; margin: 0px 13px 0px 0px;" srcset="https://blog.victech.com/hs-fs/hubfs/Picture1-Aug-21-2023-05-46-02-2365-PM.png?width=306&amp;height=120&amp;name=Picture1-Aug-21-2023-05-46-02-2365-PM.png 306w, https://blog.victech.com/hs-fs/hubfs/Picture1-Aug-21-2023-05-46-02-2365-PM.png?width=611&amp;height=240&amp;name=Picture1-Aug-21-2023-05-46-02-2365-PM.png 611w, https://blog.victech.com/hs-fs/hubfs/Picture1-Aug-21-2023-05-46-02-2365-PM.png?width=917&amp;height=360&amp;name=Picture1-Aug-21-2023-05-46-02-2365-PM.png 917w, https://blog.victech.com/hs-fs/hubfs/Picture1-Aug-21-2023-05-46-02-2365-PM.png?width=1222&amp;height=480&amp;name=Picture1-Aug-21-2023-05-46-02-2365-PM.png 1222w, https://blog.victech.com/hs-fs/hubfs/Picture1-Aug-21-2023-05-46-02-2365-PM.png?width=1528&amp;height=600&amp;name=Picture1-Aug-21-2023-05-46-02-2365-PM.png 1528w, https://blog.victech.com/hs-fs/hubfs/Picture1-Aug-21-2023-05-46-02-2365-PM.png?width=1833&amp;height=720&amp;name=Picture1-Aug-21-2023-05-46-02-2365-PM.png 1833w" sizes="(max-width: 611px) 100vw, 611px"> Another pathway to consider for reimbursement for VR therapy is remote patient monitoring (RPM). RPM is broader in the conditions/body systems it can be applied to, but more narrow in the data that can be collected. RPM traditionally involves measuring only objective data, like vital signs (heart rate, respiratory rate, ect). An example of how RPM could be utilized in the context of VR is by measuring heart rate variety (HRV). HRV is a metric that has a correlation with psychological stress [24, 25]. If the patient wore an Apple Watch, or took a daily measurement with their smartphone or a smart scale, this data could be collected. The treatment team could then analyze how HRV was responding to the VR treatment. In addition to being an objective metric the treatment team could consider, this would allow for RPM billing. It should be noted that to bill for RPM, you must collect data 16/30 calendar days, and the data must be transmitted directly from the device (ie a patient telling you what their Apple Watch displayed won’t fly) [26]. To my knowledge, no clinical VR strategy has utilized the above RPM strategy.</p>
+<p>Below is the CMS reimbursement rates for RPM [27]. <em>Note: you can’t double bill for both RPM and RTM for the same condition for the same patient [22].</em></p>
+<p><em><img src="https://blog.victech.com/hs-fs/hubfs/Picture2-3.png?width=1008&amp;height=404&amp;name=Picture2-3.png" width="1008" height="404" loading="lazy" alt="Picture2-3" style="height: auto; max-width: 100%; width: 1008px;" srcset="https://blog.victech.com/hs-fs/hubfs/Picture2-3.png?width=504&amp;height=202&amp;name=Picture2-3.png 504w, https://blog.victech.com/hs-fs/hubfs/Picture2-3.png?width=1008&amp;height=404&amp;name=Picture2-3.png 1008w, https://blog.victech.com/hs-fs/hubfs/Picture2-3.png?width=1512&amp;height=606&amp;name=Picture2-3.png 1512w, https://blog.victech.com/hs-fs/hubfs/Picture2-3.png?width=2016&amp;height=808&amp;name=Picture2-3.png 2016w, https://blog.victech.com/hs-fs/hubfs/Picture2-3.png?width=2520&amp;height=1010&amp;name=Picture2-3.png 2520w, https://blog.victech.com/hs-fs/hubfs/Picture2-3.png?width=3024&amp;height=1212&amp;name=Picture2-3.png 3024w" sizes="(max-width: 1008px) 100vw, 1008px"></em></p>
+<p>For short term applications, like acute pain management, VR companies would likely rent their solution to hospital institutions so they could have reoccurring income. The hospital institutions would likely bill insurance payers with one-off reimbursement codes, but presumably they would be able do this consistently (or so the VR companies would argue).</p>
+<p><span style="color: #073763;"><strong><u>Final Assessment – Will VR Therapy Catch On:</u></strong></span></p>
+<p>There are some healthcare technologies I am bullish on. For example, see my article on remote photothermography, which is a way to measure vital signs by simply looking into your smart phone camera (see previous article I wrote here: <a href="https://blog.victech.com/a-new-tech-helping-enable-telemedicine" style="text-decoration: underline;"><span style="color: #073763;">blog.victech.com/a-new-tech-helping-enable-telemedicine</span></a>) [28]. I believe this will be a part of every virtual healthcare encounter once the technology matures.</p>
+<p>VR therapy is a bit more debatable. We are hardwired to be sensitive to anything on our face, and evolutionarily evolved to not like our peripheral field of vision obstructed. However, there are some compelling initial clinical results. Also, the technology, including the hardware, is continuing to evolve, and become less obstructive, and more lightweight. My personal prediction is there will be a modest, yet sustainable cohort of technology forward patients/physicians that embrace this technology. This will allow small to midsized healthtech companies to have a sustainable business model. The clinical VR focused companies that will be the most successful will likely be those that can capture reoccurring revenue, and make use of the existing payer reimbursement codes. I have my doubts the next Apple will come out of this space. However, if companies like XRHealth could further validate their solutions, and offer a profit-sharing program with outpatient medical centers, that could be a strong offering.</p>
+<p>-------------</p>
+<p><strong><u>Disclaimer:</u></strong></p>
+<p>ChatGPT was utilized to aid in the writing of this article. However, the vast majority of the article was written manually by the author, and all references were found and analyzed directly by the author.</p>
+<p><strong><u>References</u></strong></p>
+<ol>
+<li>Emily Carla ATS, Andrew Levihn-Coonb, Jamie R. Pogued, Barbara Rothbaume, Paul Emmelkampf, Gordon J.G. Asmundsong, Per Carlbringh, Mark B. Powersa: <strong>Virtual reality exposure therapy for anxiety and related disorders: A meta- T analysis of randomized controlled trials</strong>. <em>Journal of Anxiety Disorders </em>2018.</li>
+<li>Eshuis LV, van Gelderen MJ, van Zuiden M, Nijdam MJ, Vermetten E, Olff M, Bakker A: <strong>Efficacy of immersive PTSD treatments: A systematic review of virtual and augmented reality exposure therapy and a meta-analysis of virtual reality exposure therapy</strong>. <em>Journal of Psychiatric Research </em>2021, <strong>143</strong>:516-527.</li>
+<li>Lan X, Tan Z, Zhou T, Huang Z, Huang Z, Wang C, Chen Z, Ma Y, Kang T, Gu Y<em> et al</em>: <strong>Use of Virtual Reality in Burn Rehabilitation: A Systematic Review and Meta-analysis</strong>. <em>Arch Phys Med Rehabil </em>2023, <strong>104</strong>(3):502-513.</li>
+<li>Spiegel B FG, Lopez M, Dupuy T, Noah B, Howard A, et al. : <strong>Virtual reality for management of pain in hospitalized patients: A randomized comparative effectiveness trial</strong>. <em>PLoS ONE </em>2019.</li>
+<li>Eijlers R, Dierckx B, Staals LM, Berghmans JM, van der Schroeff MP, Strabbing EM, Wijnen RMH, Hillegers MHJ, Legerstee JS, Utens E: <strong>Virtual reality exposure before elective day care surgery to reduce anxiety and pain in children: A randomised controlled trial</strong>. <em>Eur J Anaesthesiol </em>2019, <strong>36</strong>(10):728-737.</li>
+<li><strong>Virtual reality for chronic pain relief </strong>[<span style="color: #073763;"><a href="https://www.health.harvard.edu/pain/virtual-reality-for-chronic-pain-relief" style="color: #073763;">https://www.health.harvard.edu/pain/virtual-reality-for-chronic-pain-relief</a></span>]</li>
+<li>Leggiero NM, Armstrong TS, Gilbert MR, King AL: <strong>Use of virtual reality for symptom management in solid-tumor patients with implications for primary brain tumor research: a systematic review</strong>. <em>Neurooncol Pract </em>2020, <strong>7</strong>(5):477-489.</li>
+<li>Chi B, Chau B, Yeo E, Ta P: <strong>Virtual reality for spinal cord injury-associated neuropathic pain: Systematic review</strong>. <em>Ann Phys Rehabil Med </em>2019, <strong>62</strong>(1):49-57.</li>
+<li>Cortés-Pérez I, Zagalaz-Anula N, Ibancos-Losada MDR, Nieto-Escámez FA, Obrero-Gaitán E, Osuna-Pérez MC: <strong>Virtual Reality-Based Therapy Reduces the Disabling Impact of Fibromyalgia Syndrome in Women: Systematic Review with Meta-Analysis of Randomized Controlled Trials</strong>. <em>J Pers Med </em>2021, <strong>11</strong>(11).</li>
+<li>Darnall BD, Krishnamurthy P, Tsuei J, Minor JD: <strong>Self-Administered Skills-Based Virtual Reality Intervention for Chronic Pain: Randomized Controlled Pilot Study</strong>. <em>JMIR Form Res </em>2020, <strong>4</strong>(7):e17293.</li>
+<li>Garcia LM, Birckhead BJ, Krishnamurthy P, Sackman J, Mackey IG, Louis RG, Salmasi V, Maddox T, Darnall BD: <strong>An 8-Week Self-Administered At-Home Behavioral Skills-Based Virtual Reality Program for Chronic Low Back Pain: Double-Blind, Randomized, Placebo-Controlled Trial Conducted During COVID-19</strong>. <em>J Med Internet Res </em>2021, <strong>23</strong>(2):e26292.</li>
+<li>Karamians R, Proffitt R, Kline D, Gauthier LV: <strong>Effectiveness of Virtual Reality- and Gaming-Based Interventions for Upper Extremity Rehabilitation Poststroke: A Meta-analysis</strong>. <em>Arch Phys Med Rehabil </em>2020, <strong>101</strong>(5):885-896.</li>
+<li>Hao J, Pu Y, Chen Z, Siu KC: <strong>Effects of virtual reality-based telerehabilitation for stroke patients: A systematic review and meta-analysis of randomized controlled trials</strong>. <em>J Stroke Cerebrovasc Dis </em>2023, <strong>32</strong>(3):106960.</li>
+<li>Triandafilou KM, Tsoupikova D, Barry AJ, Thielbar KN, Stoykov N, Kamper DG: <strong>Development of a 3D, networked multi-user virtual reality environment for home therapy after stroke</strong>. <em>J Neuroeng Rehabil </em>2018, <strong>15</strong>(1):88.</li>
+<li>Cortés-Pérez I, Osuna-Pérez MC, Montoro-Cárdenas D, Lomas-Vega R, Obrero-Gaitán E, Nieto-Escamez FA: <strong>Virtual reality-based therapy improves balance and reduces fear of falling in patients with multiple sclerosis. a systematic review and meta-analysis of randomized controlled trials</strong>. <em>J Neuroeng Rehabil </em>2023, <strong>20</strong>(1):42.</li>
+<li>Kwon SH, Park JK, Koh YH: <strong>A systematic review and meta-analysis on the effect of virtual reality-based rehabilitation for people with Parkinson's disease</strong>. <em>J Neuroeng Rehabil </em>2023, <strong>20</strong>(1):94.</li>
+<li><strong>Augmented Reality and Virtual Reality in Medical Devices </strong>[<span style="color: #073763;"><a href="https://www.fda.gov/medical-devices/digital-health-center-excellence/augmented-reality-and-virtual-reality-medical-devices" style="color: #073763;">https://www.fda.gov/medical-devices/digital-health-center-excellence/augmented-reality-and-virtual-reality-medical-devices</a></span>]</li>
+<li><strong>FDA Authorizes Marketing of Virtual Reality System for Chronic Pain Reduction </strong>[<a href="https://www.fda.gov/news-events/press-announcements/fda-authorizes-marketing-virtual-reality-system-chronic-pain-reduction" style="text-decoration: underline;"><span style="color: #073763;">https://www.fda.gov/news-events/press-announcements/fda-authorizes-marketing-virtual-reality-system-chronic-pain-reduction</span></a>]</li>
+<li><strong>Penumbra VR device wins FDA clearance </strong>[<span style="color: #073763;"><a href="https://www.massdevice.com/penumbra-vr-device-wins-fda-clearance/" style="color: #073763;">https://www.massdevice.com/penumbra-vr-device-wins-fda-clearance/</a></span>]</li>
+<li><strong>XRHealth and HTC Introduce The First Distraction Therapy Virtual Reality Platform to Improve Patient Experience During Painful or Anxiety Provoking Medical Procedures </strong>[<span style="color: #073763;"><a href="https://www.prnewswire.com/news-releases/xrhealth-and-htc-introduce-the-first-distraction-therapy-virtual-reality-platform-to-improve-patient-experience-during-painful-or-anxiety-provoking-medical-procedures-301644309.html" style="color: #073763;">https://www.prnewswire.com/news-releases/xrhealth-and-htc-introduce-the-first-distraction-therapy-virtual-reality-platform-to-improve-patient-experience-during-painful-or-anxiety-provoking-medical-procedures-301644309.html</a></span>]</li>
+<li><strong>AppliedVR Becomes First Virtual Reality Provider to Receive HCPCS Level II Code from Centers for Medicare and Medicaid Services as Durable Medical Equipment </strong>[<span style="color: #073763;"><a href="https://www.prnewswire.com/news-releases/appliedvr-becomes-first-virtual-reality-provider-to-receive-hcpcs-level-ii-code-from-centers-for-medicare-and-medicaid-services-as-durable-medical-equipment-301773521.html" style="color: #073763;">https://www.prnewswire.com/news-releases/appliedvr-becomes-first-virtual-reality-provider-to-receive-hcpcs-level-ii-code-from-centers-for-medicare-and-medicaid-services-as-durable-medical-equipment-301773521.html</a></span>]</li>
+<li><strong>Medicare Remote Therapeutic Monitoring: Top FAQs for 2023 </strong>[<span style="color: #073763;"><a href="https://www.foley.com/en/insights/publications/2022/11/medicare-remote-therapeutic-monitoring-faqs-2023" style="color: #073763;">https://www.foley.com/en/insights/publications/2022/11/medicare-remote-therapeutic-monitoring-faqs-2023</a></span>]</li>
+<li><strong>Remote Therapeutic Monitoring </strong>[<span style="color: #073763;"><a href="https://augmenttherapy.com/rtm/" style="color: #073763;">https://augmenttherapy.com/rtm/</a></span>]</li>
+<li>Kim HG, Cheon EJ, Bai DS, Lee YH, Koo BH: <strong>Stress and Heart Rate Variability: A Meta-Analysis and Review of the Literature</strong>. <em>Psychiatry Investig </em>2018, <strong>15</strong>(3):235-245.</li>
+<li><strong>Heart Rate Variability (HRV) </strong>[<span style="color: #073763;"><a href="https://my.clevelandclinic.org/health/symptoms/21773-heart-rate-variability-hrv" style="color: #073763;">https://my.clevelandclinic.org/health/symptoms/21773-heart-rate-variability-hrv</a></span>]</li>
+<li><strong>2023 Remote Patient Monitoring CPT Codes: 99453, 99454, 99457, 99458 </strong>[<span style="color: #073763;"><a href="https://www.thoroughcare.net/blog/2023-remote-patient-monitoring-cpt-codes-99453-99454-99457-99458" style="color: #073763;">https://www.thoroughcare.net/blog/2023-remote-patient-monitoring-cpt-codes-99453-99454-99457-99458</a></span>]</li>
+<li><strong>2023 Medicare CPT Code Reimbursements for Remote Patient Monitoring (RPM) </strong>[<span style="color: #073763;"><a href="https://signallamphealth.com/2023-medicare-remote-patient-monitoring-rpm-cpt-codes/#:~:text=The%202023%20Reimbursement%20Rates%20for,compared%20to%20%2434.61%20in%202022" style="color: #073763;">https://signallamphealth.com/2023-medicare-remote-patient-monitoring-rpm-cpt-codes/#:~:text=The%202023%20Reimbursement%20Rates%20for,compared%20to%20%2434.61%20in%202022</a>.]</span></li>
+<li><span style="color: #073763;"><strong>A New Tech Helping Enable Telemedicine </strong>[<a href="https://blog.victech.com/a-new-tech-helping-enable-telemedicine" style="color: #073763;">https://blog.victech.com/a-new-tech-helping-enable-telemedicine</a></span>]</li>
+</ol></span>
+</div>
+</div>
+</div>
+<div class="jupiterx-social-share-post">
+<div class="jupiterx-social-share-inner">
+<a class="jupiterx-social-share-facebook" href="http://www.facebook.com/sharer/sharer.php?u=https://blog.victech.com/exploring-the-clinical-applications-of-virtual-reality-in-healthcare" target="_blank"><span class="jupiterx-icon jupiterx-icon-facebook-f"></span></a>
+<a class="jupiterx-social-share-twitter" href="javascript:;" onclick="window.open('https://twitter.com/intent/tweet?text=Exploring the Clinical Applications of Virtual Reality in Healthcare&amp;url=https://blog.victech.com/exploring-the-clinical-applications-of-virtual-reality-in-healthcare')" );><span class="jupiterx-icon jupiterx-icon-twitter"></span></a>
+<a class="jupiterx-social-share-linkedin" href="javascript:;" onclick="window.open('http://www.linkedin.com/shareArticle?mini=true&amp;url=https://blog.victech.com/exploring-the-clinical-applications-of-virtual-reality-in-healthcare',)"><span class="jupiterx-icon jupiterx-icon-linkedin-in"></span></a>
+<a class="jupiterx-social-share-email" href="mailto:?subject=Exploring%20the%20Clinical%20Applications%20of%20Virtual%20Reality%20in%20Healthcare%20&amp;%20body=https://blog.victech.com/exploring-the-clinical-applications-of-virtual-reality-in-healthcare" target="_self"><span class="jupiterx-icon jupiterx-icon-share-email"></span></a></div>
+</div>
+<!-- Optional: Blog Author Bio Box -->
+</div>
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-4 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget " style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_1523032063950328" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-blog_comments" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><span id="hs_cos_wrapper_module_1523032063950328_blog_comments" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_blog_comments" style="" data-hs-cos-general-type="widget" data-hs-cos-type="blog_comments">
+<div class="section post-footer">
+    <div id="comments-listing" class="new-comments"></div>
+    
+      <div id="hs_form_target_57a3b765-7002-474d-8403-5106872e603e"></div>
+      
+      
+      
+      
+    
+</div>
+
+</span></div>
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+    </div><!--end body -->
+</div><!--end body wrapper -->
+
+<div class="footer-container-wrapper">
+    <div class="footer-container container-fluid">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-1 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-global_group " style="" data-widget-type="global_group" data-x="0" data-w="12">
+<div class="" data-global-widget-path="generated_global_groups/23573819388.html"><div class="row-fluid-wrapper row-depth-1 row-number-1 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell custom-footer" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-2 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell custom-footer-top" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-3 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell page-center" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-4 ">
+<div class="row-fluid ">
+<div class="span4 widget-span widget-type-custom_widget custom-footer-logo wrap6" style="" data-widget-type="custom_widget" data-x="0" data-w="4">
+<div id="hs_cos_wrapper_module_151811918217345" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><span id="hs_cos_wrapper_module_151811918217345_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><a href="https://victech.com"><img src="https://blog.victech.com/hubfs/VICTechnology_December2019%20Theme/images/VIC-Technology-Ventures-Logo-White.png" alt="VIC Tech"></a></span></div>
+
+</div><!--end widget-span -->
+<div class="span4 widget-span widget-type-custom_widget custom-footer-text wrap6" style="" data-widget-type="custom_widget" data-x="4" data-w="4">
+<div id="hs_cos_wrapper_module_151811919667546" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><span id="hs_cos_wrapper_module_151811919667546_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text" style="" data-hs-cos-general-type="widget" data-hs-cos-type="rich_text"><p><strong><span><span>Technology Solutions</span><span>&nbsp;<span>For A Better World</span></span></span></strong></p>
+<p><span>Our mission is to form and grow life science and emerging technology companies that shape the future by bringing innovative discoveries from research labs to commercial deployment.</span></p></span></div>
+
+</div><!--end widget-span -->
+<div class="span4 widget-span widget-type-cell custom-footer-social wrap6" style="" data-widget-type="cell" data-x="8" data-w="4">
+
+<div class="row-fluid-wrapper row-depth-2 row-number-1 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget " style="min-height: 0;" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_15765698320901854" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><p><span><a href="https://victech.com/newsletter/" target="_blank" rel="noopener"><span>Subscribe</span></a></span> to&nbsp;the VIC newsletter.</p>
+
+<div class="elementor-row">
+  <div class="elementor-social-icons-wrap">
+    <div class="elementor-social-icons-wrapper">
+      <a href="https://twitter.com/vic_tvd?lang=en" class="elementor-icon elementor-social-icon elementor-social-icon-twitter elementor-repeater-item-29d8678" target="_blank">
+        <i class="fab fa-twitter"></i>				
+      </a>
+      <a href="https://in.linkedin.com/company/vic-technology-venture-development" class="elementor-icon elementor-social-icon elementor-social-icon-linkedin-in elementor-repeater-item-6f245cc" target="_blank">
+        <i class="fab fa-linkedin-in"></i>				
+      </a>
+    </div>
+  </div>
+
+  <div class="elementor-widget-container">
+    <div class="elementor-widget-privacy">
+        <a href="https://www.iubenda.com/privacy-policy/89153966" class="iubenda-white iubenda-embed" title="Privacy Policy ">Privacy Policy</a><script type="text/javascript">(function (w,d) {var loader = function () {var s = d.createElement("script"), tag = d.getElementsByTagName("script")[0]; s.src="https://cdn.iubenda.com/iubenda.js"; tag.parentNode.insertBefore(s,tag);}; if(w.addEventListener){w.addEventListener("load", loader, false);}else if(w.attachEvent){w.attachEvent("onload", loader);}else{w.onload = loader;}})(window, document);</script>
+    </div>
+</div>
+  </div></div>
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+<div class="row-fluid-wrapper row-depth-1 row-number-1 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell custom-footer-bottom" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-2 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-cell page-center" style="" data-widget-type="cell" data-x="0" data-w="12">
+
+<div class="row-fluid-wrapper row-depth-1 row-number-3 ">
+<div class="row-fluid ">
+<div class="span12 widget-span widget-type-custom_widget custom-footer-links" style="" data-widget-type="custom_widget" data-x="0" data-w="12">
+<div id="hs_cos_wrapper_module_15765684162281358" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_module widget-type-simple_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="module"><span id="hs_cos_wrapper_module_15765684162281358_" class="hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_simple_menu" style="" data-hs-cos-general-type="widget" data-hs-cos-type="simple_menu"><div id="hs_menu_wrapper_module_15765684162281358_" class="hs-menu-wrapper active-branch flyouts hs-menu-flow-horizontal" role="navigation" data-sitemap-name="" data-menu-id="" aria-label="Navigation Menu">
+ <ul role="menu">
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://victech.com/innovators/" role="menuitem" target="_self">Innovators</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://victech.com/inventors/" role="menuitem" target="_self">Inventors</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://victech.com/foundry/" role="menuitem" target="_self">Foundry</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://victech.com/fellows/" role="menuitem" target="_self">Fellows</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://victech.com/investors-2/" role="menuitem" target="_self">Investors</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://victech.com/about/" role="menuitem" target="_self">About</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://victech.com/team/" role="menuitem" target="_self">Our Team</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://victech.com/business-model/" role="menuitem" target="_self">Business Model</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://victech.com/portfolio-companies/" role="menuitem" target="_self">Portfolio Companies</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://victech.com/careers/" role="menuitem" target="_self">Careers</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://blog.victech.com/" role="menuitem" target="_self">News</a></li>
+  <li class="hs-menu-item hs-menu-depth-1" role="none"><a href="https://victech.com/contact/" role="menuitem" target="_self">Contact</a></li>
+ </ul>
+</div></span></div>
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+</div>
+</div><!--end widget-span -->
+</div><!--end row-->
+</div><!--end row-wrapper -->
+
+    </div><!--end footer -->
+</div><!--end footer wrapper -->
+
+    
+<!-- HubSpot performance collection script -->
+<script defer src="/hs/hsstatic/content-cwv-embed/static-1.1293/embed.js"></script>
+<script src="https://blog.victech.com/hubfs/hub_generated/template_assets/1/23573967846/1741826532161/template_VICTechnology_December2019-main.min.js"></script>
+<script>
+var hsVars = hsVars || {}; hsVars['language'] = 'en';
+</script>
+
+<script src="/hs/hsstatic/cos-i18n/static-1.53/bundles/project.js"></script>
+<script src="/hs/hsstatic/keyboard-accessible-menu-flyouts/static-1.17/bundles/project.js"></script>
+<script src="/hs/hsstatic/AsyncSupport/static-1.501/js/comment_listing_asset.js"></script>
+<script>
+  function hsOnReadyPopulateCommentsFeed() {
+    var options = {
+      commentsUrl: "https://api-na1.hubapi.com/comments/v3/comments/thread/public?portalId=5298686&offset=0&limit=10000&contentId=131076617816&collectionId=8057970818",
+      maxThreadDepth: 1,
+      showForm: true,
+      
+      skipAssociateContactReason: 'blogComment',
+      disableContactPromotion: true,
+      
+      target: "hs_form_target_57a3b765-7002-474d-8403-5106872e603e",
+      replyTo: "Reply to <em>{{user}}</em>",
+      replyingTo: "Replying to {{user}}"
+    };
+    window.hsPopulateCommentsFeed(options);
+  }
+
+  if (document.readyState === "complete" ||
+      (document.readyState !== "loading" && !document.documentElement.doScroll)
+  ) {
+    hsOnReadyPopulateCommentsFeed();
+  } else {
+    document.addEventListener("DOMContentLoaded", hsOnReadyPopulateCommentsFeed);
+  }
+
+</script>
+
+
+          <!--[if lte IE 8]>
+          <script charset="utf-8" src="https://js.hsforms.net/forms/v2-legacy.js"></script>
+          <![endif]-->
+      
+<script data-hs-allowed="true" src="/_hcms/forms/v2.js"></script>
+
+        <script data-hs-allowed="true">
+            hbspt.forms.create({
+                portalId: '5298686',
+                formId: '57a3b765-7002-474d-8403-5106872e603e',
+                pageId: '131076617816',
+                region: 'na1',
+                pageName: "Exploring the Clinical Applications of Virtual Reality in Healthcare",
+                contentType: 'blog-post',
+                
+                formsBaseUrl: '/_hcms/forms/',
+                
+                
+                
+                css: '',
+                target: "#hs_form_target_57a3b765-7002-474d-8403-5106872e603e",
+                type: 'BLOG_COMMENT',
+                
+                submitButtonClass: 'hs-button primary',
+                formInstanceId: '8770',
+                getExtraMetaDataBeforeSubmit: window.hsPopulateCommentFormGetExtraMetaDataBeforeSubmit
+            });
+
+            window.addEventListener('message', function(event) {
+              var origin = event.origin; var data = event.data;
+              if ((origin != null && (origin === 'null' || document.location.href.toLowerCase().indexOf(origin.toLowerCase()) === 0)) && data !== null && data.type === 'hsFormCallback' && data.id == '57a3b765-7002-474d-8403-5106872e603e') {
+                if (data.eventName === 'onFormReady') {
+                  window.hsPopulateCommentFormOnFormReady({
+                    successMessage: "Your comment has been received.",
+                    target: "#hs_form_target_57a3b765-7002-474d-8403-5106872e603e"
+                  });
+                } else if (data.eventName === 'onFormSubmitted') {
+                  window.hsPopulateCommentFormOnFormSubmitted();
+                }
+              }
+            });
+        </script>
+      
+
+<!-- Start of HubSpot Analytics Code -->
+<script type="text/javascript">
+var _hsq = _hsq || [];
+_hsq.push(["setContentType", "blog-post"]);
+_hsq.push(["setCanonicalUrl", "https:\/\/blog.victech.com\/exploring-the-clinical-applications-of-virtual-reality-in-healthcare"]);
+_hsq.push(["setPageId", "131076617816"]);
+_hsq.push(["setContentMetadata", {
+    "contentPageId": 131076617816,
+    "legacyPageId": "131076617816",
+    "contentFolderId": null,
+    "contentGroupId": 8057970818,
+    "abTestId": null,
+    "languageVariantId": 131076617816,
+    "languageCode": "en",
+    
+    
+}]);
+</script>
+
+<script type="text/javascript" id="hs-script-loader" async defer src="/hs/scriptloader/5298686.js"></script>
+<!-- End of HubSpot Analytics Code -->
+
+
+<script type="text/javascript">
+var hsVars = {
+    render_id: "a90505f5-4b55-41a4-b70b-97e574e285ba",
+    ticks: 1758009016330,
+    page_id: 131076617816,
+    
+    content_group_id: 8057970818,
+    portal_id: 5298686,
+    app_hs_base_url: "https://app.hubspot.com",
+    cp_hs_base_url: "https://cp.hubspot.com",
+    language: "en",
+    analytics_page_type: "blog-post",
+    scp_content_type: "",
+    
+    analytics_page_id: "131076617816",
+    category_id: 3,
+    folder_id: 0,
+    is_hubspot_user: false
+}
+</script>
+
+
+<script defer src="/hs/hsstatic/HubspotToolsMenu/static-1.432/js/index.js"></script>
+
+
+
+<div id="fb-root"></div>
+  <script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v3.0";
+  fjs.parentNode.insertBefore(js, fjs);
+ }(document, 'script', 'facebook-jssdk'));</script> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+ 
+
+
+    
+    <!-- Generated by the HubSpot Template Builder - template version 1.03 -->
+
+</body></html>
